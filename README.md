@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abby Yu!
-- 🌱 I’m a junior studying Data Science at UC Berkeley. Currently searching for data analyst / data science internships for Summer 2023!
-- 📫 Feel free to connect at https://www.linkedin.com/in/abigailmyu/ or send me an email! abigailmyu@berkeley.edu
+- 🌱 I’m a senior studying Data Science with an emphasis in Business and Industrial Analytics at UC Berkeley. I'm currently seeking full-time data science or data / business analyst roles, starting as early as July 2024!
+- 📫 Feel free to connect at https://www.linkedin.com/in/abigailmyu/ or send me an email at abigailmyu@berkeley.edu.
 
 <!---
 abigailmyu/abigailmyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
